@@ -12,7 +12,7 @@ Most neural network weights should be available in [our Zenodo repository](https
 
 ## `elastix` parameters
 
-Our `elastix` parameters are available in [our registration package](https://github.com/flavell-lab/RegistrationGraph.jl/tree/master/params)
+Our `elastix` parameters are available in [our registration package](https://github.com/flavell-lab/RegistrationGraph.jl/tree/master/params).
 
 
 ## Citation
