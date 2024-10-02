@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ANTSUN
 
 Implements the Automatic Neuron Tracking System for Unconstrained Nematodes. This notebook takes as input raw video data from NIR and confocal microscopes and outputs neural traces and behavioral parameters for that worm.
@@ -32,3 +33,6 @@ Cell 2023; doi: https://doi.org/10.1016/j.cell.2023.07.035
 Adam A. Atanas, Alicia Kun-Yang Lu, Jungsoo Kim, Saba Baskoylu, Di Kang, Talya S. Kramer, Eric Bueno, Flossie K. Wan, Steven W. Flavell
 
 bioRxiv 2024; doi: https://doi.org/10.1101/2024.07.18.601886
+=======
+# cv_moving_c_elegans
+>>>>>>> a6b124a (first commit)
