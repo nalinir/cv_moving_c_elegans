@@ -1,0 +1,3 @@
+[submodule "BrainAlignNet"]
+	path = BrainAlignNet
+	url = https://github.com/nalinir/BrainAlignNet.git
