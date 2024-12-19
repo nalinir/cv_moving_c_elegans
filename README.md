@@ -10,5 +10,6 @@ Here is the code we used for tracking neurons in semi-fixed _C. elegans_.
 5. Registration post-model run (Neel, Nalini, and Maren)
    * Making registration matrices
    * Clustering
+   * Applying clustering
 6. Evaluation (Ryan)
    * Provides evaluation for both models
