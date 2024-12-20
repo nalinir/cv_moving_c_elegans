@@ -12,6 +12,9 @@ Here is the code we used for tracking neurons in semi-fixed _C. elegans_.
    * Clustering
    * Applying clustering
 6. Evaluation (Ryan)
-   * Provides evaluation for both models
+   * Provides evaluation for both model
+7. Plotting (Maren)
   
 Some packages installed better with conda, and some required pip installation. Given this, we have 2 separate requirements.txt files.
+
+## Add the other sections
