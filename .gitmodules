@@ -1,3 +1,6 @@
 [submodule "BrainAlignNet"]
 	path = BrainAlignNet
 	url = https://github.com/nalinir/BrainAlignNet.git
+[submodule "BrainAlignNet-newfork/BrainAlignNet-newfork/scripts/DeepReg"]
+	path = BrainAlignNet-newfork/BrainAlignNet-newfork/scripts/DeepReg
+	url = https://github.com/nalinir/DeepReg.git
