@@ -5,7 +5,7 @@ This code accompanies our Computer Vision Final Project.
 Some packages installed better with conda, and some required pip installation. Given this, we have 2 separate requirements.txt files that can be downloaded separately.
 
 ## Baseline Model - Ultrack
-We used Ultrack as our baseline model, the training output is available here:[INSERT LINK FROM RYAN]
+We used Ultrack as our baseline model, the training output is available here: [Ultrack_Code](https://github.com/nalinir/cv_moving_c_elegans/tree/main/Ultrack_Baseline)
 
 ## Data Preparation
 We created our own pipeline for data preparation, which is available here: [INSERT LINK FROM MAREN]
