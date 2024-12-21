@@ -8,7 +8,7 @@ Some packages installed better with conda, and some required pip installation. G
 We used Ultrack as our baseline model, the training output is available here: [Ultrack_Code](https://github.com/nalinir/cv_moving_c_elegans/tree/main/Ultrack_Baseline)
 
 ## Data Preparation
-We created our own pipeline for data preparation, which is available here: [preprocess_data.ipynb](https://github.com/nalinir/cv_moving_c_elegans/preprocess_data.ipynb)
+We created our own pipeline for data preparation, which is available here: [preprocess_data.ipynb](https://github.com/nalinir/cv_moving_c_elegans/blob/main/preprocess_data.ipynb)
 
 ## Model Training
 We forked the Flavell lab's [BrainAlignNet](https://github.com/nalinir/BrainAlignNet/tree/main) code to track some key adjustments:
@@ -26,7 +26,7 @@ We removed some heuristics for our version of clustering as discussed in our pap
 ## Evaluation Metrics and Visualizations
 We have 2 notebooks for evaluation metrics and visualizations:
 1. [evaluate.py](https://github.com/nalinir/cv_moving_c_elegans/blob/main/evaluate.ipynb) - metrics3 and metrics6 show the outputs for all worms using BrainAlignNet, as shown in the writeup 
-2. Visualizations [Figures.ipynb](https://github.com/nalinir/cv_moving_c_elegans/Figures.ipynb)
+2. Visualizations [Figures.ipynb](https://github.com/nalinir/cv_moving_c_elegans/blob/main/Figures.ipynb)
 
 ## Future Work
 We have developed the ROI heuristic, as mentioned in the paper, for future training implementations
