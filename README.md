@@ -27,3 +27,7 @@ We removed some heuristics for our version of clustering as discussed in our pap
 We have 2 notebooks for evaluation metrics and visualizations:
 1. [evaluate.py](https://github.com/nalinir/cv_moving_c_elegans/blob/main/evaluate.ipynb) - metrics3 and metrics6 show the outputs for all worms using BrainAlignNet, as shown in the writeup 
 2. Visualizations [FROM MAREN]
+
+## Future Work
+We have developed the ROI heuristic, as mentioned in the paper, for future training implementations.
+1. [ROI Heuristic](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_with_heuristic.ipynb)
