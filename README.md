@@ -13,7 +13,7 @@ We created our own pipeline for data preparation, which is available here: [prep
 ## Model Training
 We forked the Flavell lab's [BrainAlignNet](https://github.com/nalinir/BrainAlignNet/tree/main) code to track some key adjustments:
 1. Adjusting hardcoding to reflect the dimensions of our new data
-   * This includes adjusting their version of [DeepReg](https://github.com/nalinir/DeepReg/main) (which we also forked to track key changes)
+   * This includes adjusting their version of [DeepReg](https://github.com/nalinir/DeepReg/tree/main) (which we also forked to track key changes)
 2. Developing some registration code to reflect the new structure of our data, as well as address runtime issues experienced with the prior code
 
 Given the size of the model and related output data, this code had to be run in .py files using SLURM jobs. To run this code, we need to run:
