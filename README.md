@@ -21,7 +21,7 @@ Given the size of the model and related output data, this code had to be run in 
 2. [reg_matrix_fast.py](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_fast.py)
 
 ## Model Clustering
-We removed some heuristics for our version of clustering as discussed in our paper. The final notebook is available here: [INSERT LINK FROM NALINI FINAL COMMIT]
+We removed some heuristics for our version of clustering as discussed in our paper. The final notebook is available here: [clustering.ipynb](https://github.com/nalinir/cv_moving_c_elegans/blob/main/clustering.ipynb)
 
 ## Evaluation Metrics and Visualizations
 We have 2 notebooks for evaluation metrics and visualizations:
