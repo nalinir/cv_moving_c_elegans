@@ -29,5 +29,5 @@ We have 2 notebooks for evaluation metrics and visualizations:
 2. Visualizations [FROM MAREN]
 
 ## Future Work
-We have developed the ROI heuristic, as mentioned in the paper, for future training implementations.
-1. [ROI Heuristic](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_with_heuristic.ipynb)
+We have developed the ROI heuristic, as mentioned in the paper, for future training implementations
+1. [reg_matrix_with_heuristic.ipynb](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_with_heuristic.ipynb)
