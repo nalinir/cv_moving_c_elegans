@@ -17,8 +17,8 @@ We forked the Flavell lab's [BrainAlignNet](https://github.com/nalinir/BrainAlig
 2. Developing some registration code to reflect the new structure of our data, as well as address runtime issues experienced with the prior code
 
 Given the size of the model and related output data, this code had to be run in .py files using SLURM jobs. To run this code, we need to run:
-1. [demo_network.py](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/demo_network.py)
-2. [reg_matrix_fast.py](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_fast.py)
+1. training on training set with parallel evaluation on validation set, registration of test set: [train_network.py](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/train_network.py)
+2. using heuristics (IoU between ROIs across all time frames) to create entries of the similarity matrix: [reg_matrix_fast.py](https://github.com/nalinir/BrainAlignNet/blob/main/scripts/reg_matrix_fast.py)
 
 ## Model Clustering
 We removed some heuristics for our version of clustering as discussed in our paper. The final notebook is available here: [clustering.ipynb](https://github.com/nalinir/cv_moving_c_elegans/blob/main/clustering.ipynb)
