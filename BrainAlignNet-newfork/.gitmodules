@@ -1,3 +1,3 @@
 [submodule "scripts/DeepReg"]
 	path = scripts/DeepReg
-	url = https://github.com/nalinir/DeepReg.git
+	url = https://github.com/nalinir/BrainAlignNet.git
